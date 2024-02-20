@@ -1,10 +1,10 @@
 <h1 align="left">Hi, I'm Onkar Mahamuni 👋</h1> 
 
-<p align="left">Currently pursuing a Master's in Financial Analytics at Stevens School of Business, my focus lies in the integration of Finance and Data Science. With research experience in Optimization and Algorithms, I thrive at the intersection of Technology and Financial Insights.</p> 
+<p align="left">Currently pursuing a Master's in Computer Science at Stevens School of Business, my focus lies in the integration of Web Development. With research experience in Optimization and Algorithms, I thrive at the intersection of Technology and Financial Insights.</p> 
 
 - My projects are available [here](https://github.com/AayushKhandekar?tab=repositories)
 
-- Reach me at  **akhandekar582@gmail.com** <br/>
+- Reach me at  **onkarmahamuni007@gmail.com** <br/>
 
 <h3 align="left">Languages and Tools :</h3><br/>
 <p align="left"> 
