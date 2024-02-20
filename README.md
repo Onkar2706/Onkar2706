@@ -2,7 +2,7 @@
 
 <p align="left">Currently pursuing a Master's in Computer Science at Stevens School of Business, my focus lies in the integration of Web Development. With research experience in Optimization and Algorithms, I thrive at the intersection of Technology and Financial Insights.</p> 
 
-- My projects are available [here]([https://github.com/AayushKhandekar?tab=repositories](https://github.com/Onkar2706))
+- My projects are available [here]((https://github.com/Onkar2706))
 
 - Reach me at  **onkarmahamuni007@gmail.com** <br/>
 
