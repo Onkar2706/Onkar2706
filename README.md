@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Onkar Mahamuni 👋</h1> 
 
-<p align="left">Currently pursuing a Master's in Computer Science at Stevens School of Business, my focus lies in the integration of Web Development. With research experience in Optimization and Algorithms.</p> 
+<p align="left">Currently pursuing a Master's in Computer Science at Stevens, my focus lies in the integration of Web Development. With research experience in Optimization and Algorithms.</p> 
 
 - My projects are available [here]((https://github.com/Onkar2706))
 
