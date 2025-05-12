@@ -4,7 +4,7 @@
 
 - My projects are available [here]((https://github.com/Onkar2706))
 
-- Reach me at  **onkarmahamuni007@gmail.com** <br/>
+- Reach me at  **onkar.mahamuni@yahoo.com** <br/>
 
 - Website https://onkar2706.github.io/Portfolio/
 
